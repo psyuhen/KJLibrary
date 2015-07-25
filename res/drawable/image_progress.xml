@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 自定义旋转进度条 -->
+<animated-rotate xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@drawable/default_indicator_rotate"
+    android:pivotX="50%"
+    android:pivotY="50%" />
